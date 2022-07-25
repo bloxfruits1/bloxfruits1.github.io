@@ -5,7 +5,8 @@ box-sizing: border-box;
 box-sizing: inherit;
 }
 body {
-background-color: Thistle;
+background-color: #606060;
+  color: #d6d6d6;
 font-family: sans-serif;
 margin-left: auto;
 margin-right: auto;
@@ -34,10 +35,10 @@ text-align: right;
 }
 nav ul {
 list-style-type: none;
-background-color: #B577B5;
-border: 2px solid Black;
+background-color: SkyBlue;
+border: 2px solid #d6d6d6;
 border-radius: 10px;
-font-family: sans-serif;
+font-family: cursive;
 font-weight: bold;
 padding: 16px;
 }
