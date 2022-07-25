@@ -136,3 +136,6 @@ color: DarkBlue;
 ul li a:hover {
 text-decoration: underline;
 }
+section {
+  color: #111111;
+}
